@@ -1,1 +1,0 @@
-# Live-Face-Detection-System-using-OpenCV-and-AWS
