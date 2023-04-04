@@ -1,14 +1,17 @@
 # face-attendance-web-app-react-python
 
 Face attendance + face recognition web app with React and Python!
+![Screenshot (57)](https://user-images.githubusercontent.com/80483699/229828290-16856c9e-d36c-4ef2-9fd2-fcef5d60330f.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/80483699/229828329-cb692d39-29bd-464b-882f-7726b63f11fa.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/80483699/229828355-50383323-f54e-4f63-a605-f326febff71a.png)
 
-[![Watch the video](https://img.youtube.com/vi/yWmW5uEtNws/0.jpg)](https://www.youtube.com/watch?v=yWmW5uEtNws)
 
-## deployment
 
-### backend
+## Deployment
 
-#### setup server
+### Backend
+
+#### Setup server
 
 Log into your AWS account and launch a t2.2xlarge EC2 instance, using the latest stable Ubuntu image.
 
